@@ -45,7 +45,7 @@
 .hero { 
   height: 100vh;
   width: 100%;
-  background: linear-gradient(rgb(100, 43, 78, 0.7), rgb(100, 43, 78, 0.7)),  url("./src/assets/Fotos&Icon/Foto Rooms/common areas/header.jpg");
+  background: linear-gradient(rgb(100, 43, 78, 0.7), rgb(100, 43, 78, 0.7)),  url("assets/Fotos&Icon/header.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -82,13 +82,13 @@
 .card-red-gum {
   width: 300px;
   height: 400px;
-  background: linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 1/image00002.jpeg');
+  background: linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)),  url('assets/Fotos&Icon/Foto Rooms/Room 1/image00002.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .card-red-gum:hover {
-  background: linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 1/image00002.jpeg');
+  background: linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)),  url('assets/Fotos&Icon/Foto Rooms/Room 1/image00002.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -97,7 +97,7 @@
 .card-details {
   width: 300px;
   height: 400px;
-  background:linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)), url('./src/assets/Fotos&Icon/Foto Rooms/Room 2/IMG_2671.jpg');
+  background:linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)), url('assets/Fotos&Icon/Foto Rooms/Room 2/IMG_2671.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -106,7 +106,7 @@
 .card-details:hover {
   width: 300px;
   height: 400px;
-  background:linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)), url('./src/assets/Fotos&Icon/Foto Rooms/Room 2/IMG_2671.jpg');
+  background:linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)), url('assets/Fotos&Icon/Foto Rooms/Room 2/IMG_2671.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -115,7 +115,7 @@
 .card-rainbow {
   width: 300px;
   height: 400px;
-  background: linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 3/IMG_2641.jpg');
+  background: linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)),  url('assets/Fotos&Icon/Foto Rooms/Room 3/IMG_2641.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -124,7 +124,7 @@
 .card-rainbow:hover {
   width: 300px;
   height: 400px;
-  background: linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 3/IMG_2641.jpg');
+  background: linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)),  url('assets/Fotos&Icon/Foto Rooms/Room 3/IMG_2641.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -133,7 +133,7 @@
 .card-cider-gum {
   width: 300px;
   height: 400px;
-  background: linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 4/image00010.jpeg');
+  background: linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)),  url('assets/Fotos&Icon/Foto Rooms/Room 4/image00010.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -142,7 +142,7 @@
 .card-cider-gum:hover {
   width: 300px;
   height: 400px;
-  background: linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 4/image00010.jpeg');
+  background: linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)),  url('assets/Fotos&Icon/Foto Rooms/Room 4/image00010.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -151,7 +151,7 @@
 .card-globulus {
   width: 300px;
   height: 400px;
-  background: linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 5/IMG_2655.jpg');
+  background: linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)),  url("assets/Fotos&Icon/Foto Rooms/Room 5/IMG_2655.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -160,7 +160,7 @@
 .card-globulus:hover {
   width: 300px;
   height: 400px;
-  background: linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 5/IMG_2655.jpg');
+  background: linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)),  url("assets/Fotos&Icon/Foto Rooms/Room 5/IMG_2655.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

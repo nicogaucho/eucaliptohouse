@@ -1,7 +1,6 @@
 import logoURL from "../assets/Fotos&Icon/Icons/1x/Asset 13.png";
 import phoneURL from "../assets/Fotos&Icon/Icons/1x/Asset 12.png";
 
-
 function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg fixed-top bg-sec-navbar" aria-label="Thirteenth navbar example">
