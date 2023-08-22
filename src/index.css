@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600&display=swap');
+
+* {
+  font-family: 'Oswald', sans-serif; 
+}
+
+.btn-bookBed {
+  padding: 15px 30px; 
+  background-color: #F5CF83;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  border-radius: none;
+}
+
+.btn-info {
+  padding: 15px 30px; 
+  background-color: rgb(98, 51, 80);
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  border-radius: none;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-info::before { 
+  position: absolute;
+  content: "MORE DETAILS";
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F5CF83; 
+  color: black;
+  top: 0px;
+  right: 100%;
+}
+
+.btn-info:hover::before {
+  right: 0%;
+}
+
+.hero { 
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient(rgb(100, 43, 78, 0.7), rgb(100, 43, 78, 0.7)),  url("./src/assets/Fotos&Icon/Foto Rooms/common areas/header.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-main-color {
+  background-color: #F5CF83;
+}
+
+.bg-sec-color {
+  background-color: rgb(98, 51, 80);
+}
+
+.bg-sec-navbar {
+  background: linear-gradient(rgb(98, 51, 80), rgba(98, 51, 80, 0));
+}
+
+.bg-footer {
+  background-color: #000;
+}
+
+.bg-green {
+  background-color: #698F6D;
+}
+
+.text-sec {
+  color: rgb(98, 51, 80) !important;
+}
+
+.text-main {
+  color: #F5CF83 !important;
+}
+
+.card-red-gum {
+  width: 300px;
+  height: 400px;
+  background: linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 1/image00002.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card-red-gum:hover {
+  background: linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 1/image00002.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-details {
+  width: 300px;
+  height: 400px;
+  background:linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)), url('./src/assets/Fotos&Icon/Foto Rooms/Room 2/IMG_2671.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-details:hover {
+  width: 300px;
+  height: 400px;
+  background:linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)), url('./src/assets/Fotos&Icon/Foto Rooms/Room 2/IMG_2671.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-rainbow {
+  width: 300px;
+  height: 400px;
+  background: linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 3/IMG_2641.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-rainbow:hover {
+  width: 300px;
+  height: 400px;
+  background: linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 3/IMG_2641.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-cider-gum {
+  width: 300px;
+  height: 400px;
+  background: linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 4/image00010.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-cider-gum:hover {
+  width: 300px;
+  height: 400px;
+  background: linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 4/image00010.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-globulus {
+  width: 300px;
+  height: 400px;
+  background: linear-gradient(rgb(100, 43, 78, 0.6), rgb(100, 43, 78, 0.6)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 5/IMG_2655.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-globulus:hover {
+  width: 300px;
+  height: 400px;
+  background: linear-gradient(rgba(100, 43, 78, 0.3), rgba(100, 43, 78, 0.3)),  url('./src/assets/Fotos&Icon/Foto Rooms/Room 5/IMG_2655.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
