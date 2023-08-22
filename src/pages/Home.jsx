@@ -22,10 +22,10 @@ function Home() {
             <div className="col-12 col-md-6">
               <h1 className="text-white">DO YOU NEED A <br />
               <span style={{color: "#F5CF83"}}>GROOVY ESCAPE?</span></h1>
-              <p className="text-white">A groovy style guesthouse nestled in the heart of Vegueta, Las Palmas enchanting historical center. Discover comfort and tranquility, where each private room welcomes you with open arms, immerse yourself in the vibrant energy of the city and experience the fusion of modern comforts and timeless charm. Welcome to Casa Eucalipto, your gateway to an unforgettable adventure.</p>
-              <button className="btn-bookBed">
-                book a bed
-              </button>
+              <p className="text-white mb-5">A groovy style guesthouse nestled in the heart of Vegueta, Las Palmas enchanting historical center. Discover comfort and tranquility, where each private room welcomes you with open arms, immerse yourself in the vibrant energy of the city and experience the fusion of modern comforts and timeless charm. Welcome to Casa Eucalipto, your gateway to an unforgettable adventure.</p>
+              <a className="btn-bookBed text-decoration-none text-white" href="https://frontdesk.counter.app/booking/eucalipto-house">
+                Book a Bed
+              </a> 
             </div>
           </div>
         </div>

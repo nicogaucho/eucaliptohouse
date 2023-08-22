@@ -34,9 +34,9 @@ function Navbar() {
               <img src={phoneURL} width={50} alt="" />
               <p className="m-0 ms-3 text-white">+34 603 786 656</p>
             </div>
-            <button className="btn-bookBed ms-5">
+            <a className="btn-bookBed ms-5 text-decoration-none text-white" href="https://frontdesk.counter.app/booking/eucalipto-house">
               Book a Bed
-            </button>
+            </a>
           </div>
         </div>
       </div>

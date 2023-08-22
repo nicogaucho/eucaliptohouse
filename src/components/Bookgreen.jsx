@@ -12,9 +12,9 @@ function Bookgreen() {
             <p className="h2 text-white m-0">REST YOUR BODY, GROOVE YOUR DREAMS, AND LIVE AN ADVENTURE</p>
           </div>
           <div className="col-12 col-md-3 mb-5 text-center">
-            <button className="btn-bookBed">
-              book my bed
-            </button>
+            <a className="btn-bookBed text-decoration-none text-white" href="https://frontdesk.counter.app/booking/eucalipto-house">
+                Book a Bed
+            </a> 
           </div>
         </div>
       </div>
